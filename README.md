@@ -97,6 +97,14 @@ python3 course_toc.py    # then drag folder in → press Enter
 
 ---
 
+## Also made by the same author
+
+Want a full file tree overview of **any folder** — PDFs, documents, images, archives and more? Check out:
+
+👉 [folder-snapshot](https://github.com/nord342/folder-snapshot)
+
+---
+
 ## License
 
 MIT — free to use, modify, and share.
