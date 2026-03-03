@@ -1,0 +1,45 @@
+PYTHON PROGRAMMING MASTERCLASS
+Table of Contents
+========================================================================
+
+────────────────────────────────────────────────────────────────────────
+  Week 1 – Getting Started
+  Duration: 1h 16m 46s  |  4 video(s)
+────────────────────────────────────────────────────────────────────────
+   1. Welcome & Course Overview                          8m 14s
+   2. Setting Up Your Environment                        12m 33s
+   3. Core Concepts Explained                            24m 07s
+   4. Your First Project                                 31m 52s
+
+────────────────────────────────────────────────────────────────────────
+  Week 2 – Building Foundations
+  Duration: 3h 22m 36s  |  5 video(s)
+────────────────────────────────────────────────────────────────────────
+   1. Understanding the Fundamentals                     45m 10s
+   2. Deep Dive: Part 1                                  1h 02m 18s
+   3. Deep Dive: Part 2                                  58m 44s
+   4. Practical Exercises                                37m 29s
+   5. Week 2 Recap & Next Steps                          18m 55s
+
+────────────────────────────────────────────────────────────────────────
+  Week 3 – Advanced Techniques
+  Duration: 4h 38m 48s  |  5 video(s)
+────────────────────────────────────────────────────────────────────────
+   1. Introduction to Advanced Topics                    22m 41s
+   2. Advanced Method A                                  1h 14m 03s
+   3. Advanced Method B                                  1h 28m 37s
+   4. Case Study Walkthrough                             52m 19s
+   5. Q&A and Common Mistakes                            41m 08s
+
+────────────────────────────────────────────────────────────────────────
+  Week 4 – Putting It All Together
+  Duration: 3h 00m 07s  |  4 video(s)
+────────────────────────────────────────────────────────────────────────
+   1. Bringing Everything Together                       33m 22s
+   2. Live Example: Full Workflow                        1h 41m 55s
+   3. Scaling & Next Steps                               29m 47s
+   4. Final Q&A                                          15m 03s
+
+========================================================================
+  TOTAL DURATION: 12h 18m 17s
+========================================================================
