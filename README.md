@@ -89,9 +89,9 @@ python3 course_toc.py    # then drag folder in → press Enter
 
 ---
 
-## Import CSV into Google Sheets
+## Import CSV into Google Sheets or Excel
 
-1. Open [Google Sheets](https://sheets.google.com) → **File → Import**
+1. Open [Google Sheets](https://sheets.google.com) or Excel → **File → Import**
 2. Upload `Course Table of Contents.csv`
 3. Set separator to **Comma** → Import
 
